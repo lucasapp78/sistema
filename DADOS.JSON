@@ -130,5 +130,27 @@
     "horario": "19:41",
     "pessoa": "lucas",
     "id": 12
+  },
+  {
+    "nome": "q",
+    "pe": "3",
+    "coluna": "5",
+    "nivel": "2",
+    "pulmao": "224",
+    "data": "2025-04-22",
+    "horario": "20:51",
+    "pessoa": "lucas",
+    "id": 13
+  },
+  {
+    "nome": "metaformina",
+    "pe": "8",
+    "coluna": "8",
+    "nivel": "3",
+    "pulmao": "226",
+    "data": "2025-04-22",
+    "horario": "20:52",
+    "pessoa": "lucas",
+    "id": 14
   }
 ]
