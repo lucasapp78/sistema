@@ -108,5 +108,16 @@
     "horario": "19:39",
     "pessoa": "lucas",
     "id": 10
+  },
+  {
+    "nome": "ok",
+    "pe": "5",
+    "coluna": "8",
+    "nivel": "3",
+    "pulmao": "068",
+    "data": "2025-04-22",
+    "horario": "19:41",
+    "pessoa": "lucas",
+    "id": 11
   }
 ]
